@@ -21,8 +21,3 @@ From root of this project:
 
     ./scripts/build
     ./scripts/run
-
-
-## Notes
-
- 
